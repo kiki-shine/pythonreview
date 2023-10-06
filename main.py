@@ -39,3 +39,4 @@ unique_courses=math_courses|computer_courses|science_courses
 Difference2=unique_courses-(all_courses)
 print("Not enrolled courses are", Difference2)
 print("hello world, what's up ?")
+print("just something")
